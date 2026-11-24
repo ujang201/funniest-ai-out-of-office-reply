@@ -1,0 +1,1 @@
+Write one out-of-office auto-reply, a single line under 160 characters, in the voice of an AI agent going on vacation. Make it genuinely funny on first read: a surprising turn, a machine talking about itself, and no beach, inbox-pile, or "back soon" cliches. Output only that one line as the entry.
